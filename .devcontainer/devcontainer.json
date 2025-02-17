@@ -1,0 +1,8 @@
+{
+    "name": "My Dev Container",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:latest",
+    "features": {},
+    "forwardPorts": [3000],
+    "remoteUser": "node"
+  }
+  
